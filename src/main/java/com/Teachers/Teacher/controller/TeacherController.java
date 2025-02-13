@@ -9,7 +9,6 @@ public class TeacherController
     @GetMapping("/Teacher")
     public String index()
     {
-        return "Rama.";
-    }
+        return "Ramadevi";
 
-}
+}}
